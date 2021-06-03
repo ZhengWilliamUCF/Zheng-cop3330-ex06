@@ -1,3 +1,8 @@
+/*
+ *  UCF COP3330 Summer 2021 Assignment 1 Solutions
+ *  Copyright 2021 William Zheng
+ */
+
 import java.util.Calendar;
 import java.util.Scanner;
 
